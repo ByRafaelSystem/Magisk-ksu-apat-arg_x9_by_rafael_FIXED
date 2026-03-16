@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![Image Alt](https://github.com/ByRafaelSystem/Magisk-ksu-apat-arg_x9_by_rafael_FIXED/blob/main/IMG_20260316_093409.jpg?raw=true)
+
 # ⚡ ARG X9
 ### By_Rafael System
 
