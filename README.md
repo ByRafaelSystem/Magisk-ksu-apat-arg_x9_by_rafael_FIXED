@@ -1,6 +1,7 @@
 <div align="center">
 
 # ⚡ ARG X9
+![Image Alt](https://github.com/ByRafaelSystem/Magisk-ksu-apat-arg_x9_by_rafael_FIXED/blob/main/IMG_20260316_093409.jpg?raw=true)
 ### By_Rafael System
 
 **Auto Game Resolution X9 — Resolución y DPI automáticos para juegos**
