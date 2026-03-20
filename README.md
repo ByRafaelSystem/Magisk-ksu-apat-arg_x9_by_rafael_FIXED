@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="webroot/banner.png" alt="ARG X9 Banner" width="100%">
+![Repo Banner](https://github.com/ByRafaelSystem/Magisk-ksu-apat-arg_x9_by_rafael_FIXED/blob/main/IMG_20260320_090348.jpg?raw=true)
 
 # ⚡ ARG X9 — Auto Game Resolution
 ### By_Rafael System
